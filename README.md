@@ -15,5 +15,7 @@
 Within the download you'll find the following directories and files, logically grouping common assets and providing both regular and minified variations.
 
 * css
+  * daya.css
+  * daya.min.css
 * js
 * fonts
