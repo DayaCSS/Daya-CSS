@@ -12,9 +12,3 @@
 |Brave                        |Not yet     |               |
 
 ## What's included
-'
-  Daya/
-    -- css
-    -- js
-    -- fonts
-'
