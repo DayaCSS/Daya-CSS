@@ -18,15 +18,15 @@ Within the download you'll find the following directories and files, logically g
   * daya.css
   * daya.min.css
 * js
- * daya.js
- * daya.min.js
- * jQuery-3.4.1.js
- * jQuery-3.4.1.min.js
+  * daya.js
+  * daya.min.js
+  * jQuery-3.4.1.js
+  * jQuery-3.4.1.min.js
 * fonts
- * icomoon.eot
- * icomoon.svg
- * icomoon.ttf
- * icomoon.woff
+  * icomoon.eot
+  * icomoon.svg
+  * icomoon.ttf
+  * icomoon.woff
  
 ## Copyright and license
 Code released under the [MIT License](https://opensource.org/licenses/MIT "MIT License"). 
