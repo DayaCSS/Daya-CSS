@@ -10,3 +10,11 @@
 |Edge                         |Not yet     |               |
 |Safari                       |Not yet     |               |
 |Brave                        |Not yet     |               |
+
+## What's included
+'
+  Daya/
+    -- css
+    -- js
+    -- fonts
+'
